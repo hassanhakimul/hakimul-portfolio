@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    font-size: 50px;
+}
+.briyani{
+    color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.hot{
+    width: 50%;
+    padding-left: 5%;
+}
+.hot img{
+    width: 100%;
+}
+.ami{
+    text-decoration: none;
+    color:WHITE;
+background-color: chartreuse;
+font-weight: 800;
+   padding: 10px 40px;
+   border-radius: 5px;
+}
+.bannar{
+    background-image: url(images/red.jpg);
+    background-repeat: no-repeat;
+}
